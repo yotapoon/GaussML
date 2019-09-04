@@ -1,0 +1,226 @@
+﻿%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(70.1000,18.0000)(1.9000,-24.0000)%
+% BOX 2 0 3 0 Black White  
+% 2 1000 600 1400 2400
+% 
+\special{pn 8}%
+\special{pa 1000 600}%
+\special{pa 1400 600}%
+\special{pa 1400 2400}%
+\special{pa 1000 2400}%
+\special{pa 1000 600}%
+\special{pa 1400 600}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1200 1300 1200 1400 5 0 0 0
+% Affine
+\put(12.0000,-14.0000){\makebox(0,0){Affine}}%
+% BOX 2 0 3 0 Black White  
+% 2 1600 600 2000 2400
+% 
+\special{pn 8}%
+\special{pa 1600 600}%
+\special{pa 2000 600}%
+\special{pa 2000 2400}%
+\special{pa 1600 2400}%
+\special{pa 1600 600}%
+\special{pa 2000 600}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1800 1300 1800 1400 5 0 0 0
+% ReLU
+\put(18.0000,-14.0000){\makebox(0,0){ReLU}}%
+% BOX 2 0 3 0 Black White  
+% 2 2600 600 3000 2400
+% 
+\special{pn 8}%
+\special{pa 2600 600}%
+\special{pa 3000 600}%
+\special{pa 3000 2400}%
+\special{pa 2600 2400}%
+\special{pa 2600 600}%
+\special{pa 3000 600}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 2800 1300 2800 1400 5 0 0 0
+% Affine
+\put(28.0000,-14.0000){\makebox(0,0){Affine}}%
+% BOX 2 0 3 0 Black White  
+% 2 3200 600 3600 2400
+% 
+\special{pn 8}%
+\special{pa 3200 600}%
+\special{pa 3600 600}%
+\special{pa 3600 2400}%
+\special{pa 3200 2400}%
+\special{pa 3200 600}%
+\special{pa 3600 600}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 3400 1300 3400 1400 5 0 0 0
+% ReLU
+\put(34.0000,-14.0000){\makebox(0,0){ReLU}}%
+% BOX 2 0 3 0 Black White  
+% 2 4200 600 4600 2400
+% 
+\special{pn 8}%
+\special{pa 4200 600}%
+\special{pa 4600 600}%
+\special{pa 4600 2400}%
+\special{pa 4200 2400}%
+\special{pa 4200 600}%
+\special{pa 4600 600}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 4400 1300 4400 1400 5 0 0 0
+% Affine
+\put(44.0000,-14.0000){\makebox(0,0){Affine}}%
+% BOX 2 0 3 0 Black White  
+% 2 4800 600 5200 2400
+% 
+\special{pn 8}%
+\special{pa 4800 600}%
+\special{pa 5200 600}%
+\special{pa 5200 2400}%
+\special{pa 4800 2400}%
+\special{pa 4800 600}%
+\special{pa 5200 600}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 5000 1300 5000 1400 5 0 0 0
+% ReLU
+\put(50.0000,-14.0000){\makebox(0,0){ReLU}}%
+% BOX 2 0 3 0 Black White  
+% 2 5800 600 6200 2400
+% 
+\special{pn 8}%
+\special{pa 5800 600}%
+\special{pa 6200 600}%
+\special{pa 6200 2400}%
+\special{pa 5800 2400}%
+\special{pa 5800 600}%
+\special{pa 6200 600}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 6000 1300 6000 1400 5 0 0 0
+% Affine
+\put(60.0000,-14.0000){\makebox(0,0){Affine}}%
+% BOX 2 0 3 0 Black White  
+% 2 6400 600 6800 2400
+% 
+\special{pn 8}%
+\special{pa 6400 600}%
+\special{pa 6800 600}%
+\special{pa 6800 2400}%
+\special{pa 6400 2400}%
+\special{pa 6400 600}%
+\special{pa 6800 600}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 6600 1300 6600 1400 5 0 0 0
+% Softmax
+\put(66.0000,-14.0000){\makebox(0,0){Softmax}}%
+% STR 2 0 3 0 Black White  
+% 4 400 1300 400 1400 5 0 0 0
+% 入力$x$
+\put(4.0000,-14.0000){\makebox(0,0){入力$x$}}%
+% VECTOR 2 0 3 0 Black White  
+% 18 600 1400 1000 1400 1400 1400 1600 1400 2000 1400 2600 1400 3000 1400 3200 1400 3600 1400 4200 1400 4600 1400 4800 1400 5200 1400 5800 1400 6200 1400 6400 1400 6800 1400 7200 1400
+% 
+\special{pn 8}%
+\special{pa 600 1400}%
+\special{pa 1000 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1000 1400}%
+\special{pa 933 1380}%
+\special{pa 947 1400}%
+\special{pa 933 1420}%
+\special{pa 1000 1400}%
+\special{fp}%
+\special{pa 1400 1400}%
+\special{pa 1600 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1600 1400}%
+\special{pa 1533 1380}%
+\special{pa 1547 1400}%
+\special{pa 1533 1420}%
+\special{pa 1600 1400}%
+\special{fp}%
+\special{pa 2000 1400}%
+\special{pa 2600 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2600 1400}%
+\special{pa 2533 1380}%
+\special{pa 2547 1400}%
+\special{pa 2533 1420}%
+\special{pa 2600 1400}%
+\special{fp}%
+\special{pa 3000 1400}%
+\special{pa 3200 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3200 1400}%
+\special{pa 3133 1380}%
+\special{pa 3147 1400}%
+\special{pa 3133 1420}%
+\special{pa 3200 1400}%
+\special{fp}%
+\special{pa 3600 1400}%
+\special{pa 4200 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 4200 1400}%
+\special{pa 4133 1380}%
+\special{pa 4147 1400}%
+\special{pa 4133 1420}%
+\special{pa 4200 1400}%
+\special{fp}%
+\special{pa 4600 1400}%
+\special{pa 4800 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 4800 1400}%
+\special{pa 4733 1380}%
+\special{pa 4747 1400}%
+\special{pa 4733 1420}%
+\special{pa 4800 1400}%
+\special{fp}%
+\special{pa 5200 1400}%
+\special{pa 5800 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 5800 1400}%
+\special{pa 5733 1380}%
+\special{pa 5747 1400}%
+\special{pa 5733 1420}%
+\special{pa 5800 1400}%
+\special{fp}%
+\special{pa 6200 1400}%
+\special{pa 6400 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 6400 1400}%
+\special{pa 6333 1380}%
+\special{pa 6347 1400}%
+\special{pa 6333 1420}%
+\special{pa 6400 1400}%
+\special{fp}%
+\special{pa 6800 1400}%
+\special{pa 7200 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 7200 1400}%
+\special{pa 7133 1380}%
+\special{pa 7147 1400}%
+\special{pa 7133 1420}%
+\special{pa 7200 1400}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 7400 1300 7400 1400 5 0 0 0
+% 出力$y$
+\put(74.0000,-14.0000){\makebox(0,0){出力$y$}}%
+\end{picture}}%

@@ -1,0 +1,77 @@
+﻿%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(27.9500,8.0000)(2.0500,-15.3500)%
+% VECTOR 2 2 3 0 Black White  
+% 4 600 1000 1600 1000 2000 1000 3000 1000
+% 
+\special{pn 8}%
+\special{pa 600 1000}%
+\special{pa 1600 1000}%
+\special{dt 0.045}%
+\special{sh 1}%
+\special{pa 1600 1000}%
+\special{pa 1533 980}%
+\special{pa 1547 1000}%
+\special{pa 1533 1020}%
+\special{pa 1600 1000}%
+\special{fp}%
+\special{pa 2000 1000}%
+\special{pa 3000 1000}%
+\special{dt 0.045}%
+\special{sh 1}%
+\special{pa 3000 1000}%
+\special{pa 2933 980}%
+\special{pa 2947 1000}%
+\special{pa 2933 1020}%
+\special{pa 3000 1000}%
+\special{fp}%
+% VECTOR 2 0 3 0 Black White  
+% 4 3000 1400 2000 1400 1600 1400 600 1400
+% 
+\special{pn 8}%
+\special{pa 3000 1400}%
+\special{pa 2000 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2000 1400}%
+\special{pa 2067 1420}%
+\special{pa 2053 1400}%
+\special{pa 2067 1380}%
+\special{pa 2000 1400}%
+\special{fp}%
+\special{pa 1600 1400}%
+\special{pa 600 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 600 1400}%
+\special{pa 667 1420}%
+\special{pa 653 1400}%
+\special{pa 667 1380}%
+\special{pa 600 1400}%
+\special{fp}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1800 1200 2000 1000 2000 1000 2000 1000
+% 
+\special{pn 8}%
+\special{ar 1800 1200 283 283 0.0000000 6.2831853}%
+% STR 2 0 3 0 Black White  
+% 4 1800 1100 1800 1200 5 0 0 0
+% $f$
+\put(18.0000,-12.0000){\makebox(0,0){$f$}}%
+% STR 2 0 3 0 Black White  
+% 4 1000 700 1000 800 5 0 0 0
+% $x$
+\put(10.0000,-8.0000){\makebox(0,0){$x$}}%
+% STR 2 0 3 0 Black White  
+% 4 2600 700 2600 800 5 0 0 0
+% $y$
+\put(26.0000,-8.0000){\makebox(0,0){$y$}}%
+% STR 2 0 3 0 Black White  
+% 4 2600 1500 2600 1600 5 0 0 0
+% $E$
+\put(26.0000,-16.0000){\makebox(0,0){$E$}}%
+% STR 2 0 3 0 Black White  
+% 4 1000 1500 1000 1600 5 0 0 0
+% $E\dfrac{\partial y}{\partial x}$
+\put(10.0000,-16.0000){\makebox(0,0){$E\dfrac{\partial y}{\partial x}$}}%
+\end{picture}}%
